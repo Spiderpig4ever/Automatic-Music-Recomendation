@@ -1,0 +1,401 @@
+,t_id,label,genre_name
+0,2,3,Hip-Hop
+1,134,3,Hip-Hop
+2,668,3,Hip-Hop
+3,672,3,Hip-Hop
+4,676,3,Hip-Hop
+5,679,3,Hip-Hop
+6,684,3,Hip-Hop
+7,686,3,Hip-Hop
+8,694,3,Hip-Hop
+9,831,4,Jazz
+10,832,4,Jazz
+11,833,4,Jazz
+12,835,4,Jazz
+13,1022,4,Jazz
+14,1151,4,Jazz
+15,1152,4,Jazz
+16,1153,4,Jazz
+17,1154,4,Jazz
+18,1964,4,Jazz
+19,1966,4,Jazz
+20,1967,4,Jazz
+21,5020,5,Old-Time / Historic
+22,5024,5,Old-Time / Historic
+23,5026,5,Old-Time / Historic
+24,5029,5,Old-Time / Historic
+25,5030,5,Old-Time / Historic
+26,5031,5,Old-Time / Historic
+27,5033,5,Old-Time / Historic
+28,5038,5,Old-Time / Historic
+29,5043,5,Old-Time / Historic
+30,5268,3,Hip-Hop
+31,6443,3,Hip-Hop
+32,6610,3,Hip-Hop
+33,7489,3,Hip-Hop
+34,7490,3,Hip-Hop
+35,7709,2,Folk
+36,7712,2,Folk
+37,7713,2,Folk
+38,8580,4,Jazz
+39,9654,6,Rock
+40,9656,6,Rock
+41,9658,6,Rock
+42,9659,6,Rock
+43,9798,3,Hip-Hop
+44,9851,3,Hip-Hop
+45,9853,3,Hip-Hop
+46,9857,3,Hip-Hop
+47,9875,3,Hip-Hop
+48,10094,5,Old-Time / Historic
+49,10099,5,Old-Time / Historic
+50,10104,5,Old-Time / Historic
+51,10357,5,Old-Time / Historic
+52,10363,5,Old-Time / Historic
+53,10367,5,Old-Time / Historic
+54,10666,3,Hip-Hop
+55,10740,4,Jazz
+56,10741,4,Jazz
+57,10943,3,Hip-Hop
+58,10945,3,Hip-Hop
+59,10948,3,Hip-Hop
+60,10954,3,Hip-Hop
+61,11799,3,Hip-Hop
+62,11803,3,Hip-Hop
+63,11808,3,Hip-Hop
+64,11816,3,Hip-Hop
+65,11818,3,Hip-Hop
+66,11829,3,Hip-Hop
+67,11832,3,Hip-Hop
+68,11836,3,Hip-Hop
+69,11837,3,Hip-Hop
+70,11854,3,Hip-Hop
+71,11857,3,Hip-Hop
+72,11861,3,Hip-Hop
+73,11867,3,Hip-Hop
+74,11869,3,Hip-Hop
+75,11879,3,Hip-Hop
+76,11882,3,Hip-Hop
+77,12673,4,Jazz
+78,12674,4,Jazz
+79,12676,4,Jazz
+80,12677,4,Jazz
+81,14801,1,Electronic
+82,14867,1,Electronic
+83,14868,1,Electronic
+84,14870,1,Electronic
+85,15011,1,Electronic
+86,15022,1,Electronic
+87,15139,4,Jazz
+88,16156,6,Rock
+89,16232,4,Jazz
+90,16352,5,Old-Time / Historic
+91,16365,5,Old-Time / Historic
+92,16370,5,Old-Time / Historic
+93,16375,5,Old-Time / Historic
+94,16376,5,Old-Time / Historic
+95,16377,5,Old-Time / Historic
+96,16378,5,Old-Time / Historic
+97,16380,5,Old-Time / Historic
+98,16381,5,Old-Time / Historic
+99,16382,5,Old-Time / Historic
+100,16399,5,Old-Time / Historic
+101,16405,5,Old-Time / Historic
+102,16421,5,Old-Time / Historic
+103,16422,5,Old-Time / Historic
+104,16423,5,Old-Time / Historic
+105,16424,5,Old-Time / Historic
+106,16426,5,Old-Time / Historic
+107,16428,5,Old-Time / Historic
+108,16448,4,Jazz
+109,17441,4,Jazz
+110,17991,5,Old-Time / Historic
+111,17996,5,Old-Time / Historic
+112,18001,5,Old-Time / Historic
+113,18005,5,Old-Time / Historic
+114,18006,5,Old-Time / Historic
+115,18009,5,Old-Time / Historic
+116,18012,5,Old-Time / Historic
+117,19737,7,Metal
+118,19741,7,Metal
+119,20449,4,Jazz
+120,20452,4,Jazz
+121,20462,4,Jazz
+122,22340,6,Rock
+123,23075,4,Jazz
+124,23188,4,Jazz
+125,25236,7,Metal
+126,27430,6,Rock
+127,28085,4,Jazz
+128,28087,4,Jazz
+129,28100,0,Classical
+130,28102,0,Classical
+131,28105,0,Classical
+132,28108,0,Classical
+133,28111,0,Classical
+134,28112,0,Classical
+135,28113,0,Classical
+136,28114,0,Classical
+137,28121,0,Classical
+138,28600,4,Jazz
+139,31236,0,Classical
+140,31248,0,Classical
+141,32460,7,Metal
+142,32461,7,Metal
+143,32462,7,Metal
+144,33049,2,Folk
+145,33211,1,Electronic
+146,33218,1,Electronic
+147,33219,1,Electronic
+148,33241,1,Electronic
+149,37327,7,Metal
+150,37587,7,Metal
+151,37591,7,Metal
+152,39685,1,Electronic
+153,40131,7,Metal
+154,40132,7,Metal
+155,40134,7,Metal
+156,41076,1,Electronic
+157,41571,4,Jazz
+158,47036,4,Jazz
+159,47502,7,Metal
+160,47503,7,Metal
+161,47504,4,Jazz
+162,47505,4,Jazz
+163,48268,6,Rock
+164,48730,7,Metal
+165,50445,6,Rock
+166,50970,4,Jazz
+167,50971,4,Jazz
+168,50989,4,Jazz
+169,50993,4,Jazz
+170,51934,4,Jazz
+171,52634,1,Electronic
+172,52639,1,Electronic
+173,52644,1,Electronic
+174,52646,1,Electronic
+175,52648,1,Electronic
+176,52649,1,Electronic
+177,52955,2,Folk
+178,54297,2,Folk
+179,54621,7,Metal
+180,54622,7,Metal
+181,54624,7,Metal
+182,54626,7,Metal
+183,57882,7,Metal
+184,57890,7,Metal
+185,59178,6,Rock
+186,64255,6,Rock
+187,65660,0,Classical
+188,65666,0,Classical
+189,65667,0,Classical
+190,65676,0,Classical
+191,66390,1,Electronic
+192,67761,6,Rock
+193,68404,6,Rock
+194,70935,0,Classical
+195,71365,6,Rock
+196,71366,6,Rock
+197,71372,6,Rock
+198,71710,6,Rock
+199,72285,6,Rock
+200,75240,7,Metal
+201,75248,7,Metal
+202,75680,6,Rock
+203,75681,6,Rock
+204,75682,6,Rock
+205,75866,2,Folk
+206,75910,6,Rock
+207,85487,2,Folk
+208,91443,2,Folk
+209,92463,1,Electronic
+210,92466,1,Electronic
+211,92536,2,Folk
+212,97211,2,Folk
+213,97215,2,Folk
+214,97216,2,Folk
+215,98206,1,Electronic
+216,99707,1,Electronic
+217,104009,2,Folk
+218,104010,2,Folk
+219,105887,2,Folk
+220,106937,2,Folk
+221,108415,1,Electronic
+222,108420,1,Electronic
+223,108526,1,Electronic
+224,108531,1,Electronic
+225,108533,1,Electronic
+226,109904,2,Folk
+227,110927,2,Folk
+228,111708,6,Rock
+229,113548,6,Rock
+230,113549,6,Rock
+231,113594,0,Classical
+232,113595,0,Classical
+233,113596,0,Classical
+234,113597,0,Classical
+235,113598,0,Classical
+236,113599,0,Classical
+237,113600,0,Classical
+238,113601,0,Classical
+239,113602,0,Classical
+240,113603,0,Classical
+241,113604,0,Classical
+242,113606,0,Classical
+243,113607,0,Classical
+244,115735,7,Metal
+245,116874,2,Folk
+246,116876,2,Folk
+247,117858,6,Rock
+248,117862,6,Rock
+249,117863,6,Rock
+250,118734,1,Electronic
+251,118891,2,Folk
+252,124006,6,Rock
+253,127722,2,Folk
+254,127726,2,Folk
+255,128759,1,Electronic
+256,128760,1,Electronic
+257,129439,2,Folk
+258,129444,2,Folk
+259,130337,6,Rock
+260,130683,6,Rock
+261,131551,7,Metal
+262,131553,7,Metal
+263,131554,7,Metal
+264,132095,6,Rock
+265,133798,2,Folk
+266,133802,2,Folk
+267,133803,2,Folk
+268,135115,1,Electronic
+269,135118,1,Electronic
+270,136086,0,Classical
+271,136087,0,Classical
+272,136088,0,Classical
+273,136089,0,Classical
+274,136458,6,Rock
+275,137578,7,Metal
+276,137579,7,Metal
+277,137582,7,Metal
+278,137586,7,Metal
+279,137587,7,Metal
+280,137588,7,Metal
+281,137590,7,Metal
+282,137591,7,Metal
+283,137624,7,Metal
+284,137632,7,Metal
+285,137920,1,Electronic
+286,137923,1,Electronic
+287,137926,1,Electronic
+288,138414,2,Folk
+289,138416,2,Folk
+290,139520,2,Folk
+291,140134,1,Electronic
+292,140949,0,Classical
+293,141394,6,Rock
+294,141870,1,Electronic
+295,143139,0,Classical
+296,143144,0,Classical
+297,143145,0,Classical
+298,143989,6,Rock
+299,144402,1,Electronic
+300,145065,7,Metal
+301,145551,2,Folk
+302,145552,2,Folk
+303,145553,2,Folk
+304,145566,0,Classical
+305,145567,0,Classical
+306,145568,0,Classical
+307,145609,7,Metal
+308,146458,1,Electronic
+309,146968,2,Folk
+310,147404,6,Rock
+311,147407,6,Rock
+312,147408,6,Rock
+313,147410,6,Rock
+314,147413,6,Rock
+315,148190,2,Folk
+316,148212,2,Folk
+317,148213,2,Folk
+318,148234,2,Folk
+319,149210,7,Metal
+320,5,3,Hip-Hop
+321,674,3,Hip-Hop
+322,4688,3,Hip-Hop
+323,5014,5,Old-Time / Historic
+324,5015,5,Old-Time / Historic
+325,5016,5,Old-Time / Historic
+326,5023,5,Old-Time / Historic
+327,6440,3,Hip-Hop
+328,6442,3,Hip-Hop
+329,6448,3,Hip-Hop
+330,7484,3,Hip-Hop
+331,7485,3,Hip-Hop
+332,7710,2,Folk
+333,10360,5,Old-Time / Historic
+334,10742,4,Jazz
+335,11813,3,Hip-Hop
+336,11834,3,Hip-Hop
+337,12675,4,Jazz
+338,13760,4,Jazz
+339,14799,1,Electronic
+340,14869,1,Electronic
+341,14973,1,Electronic
+342,15002,1,Electronic
+343,16400,5,Old-Time / Historic
+344,16406,5,Old-Time / Historic
+345,17990,5,Old-Time / Historic
+346,17997,5,Old-Time / Historic
+347,18013,5,Old-Time / Historic
+348,19735,7,Metal
+349,19742,7,Metal
+350,20450,4,Jazz
+351,28086,4,Jazz
+352,28088,4,Jazz
+353,28089,4,Jazz
+354,28099,0,Classical
+355,28109,0,Classical
+356,28117,0,Classical
+357,47037,4,Jazz
+358,47499,7,Metal
+359,50291,4,Jazz
+360,50975,4,Jazz
+361,52628,1,Electronic
+362,52635,1,Electronic
+363,52638,1,Electronic
+364,54623,7,Metal
+365,54625,7,Metal
+366,58157,0,Classical
+367,65664,0,Classical
+368,66187,2,Folk
+369,71371,6,Rock
+370,85484,2,Folk
+371,85486,2,Folk
+372,93053,6,Rock
+373,98702,6,Rock
+374,105114,6,Rock
+375,108528,1,Electronic
+376,109900,2,Folk
+377,109901,2,Folk
+378,109903,2,Folk
+379,113605,0,Classical
+380,116307,6,Rock
+381,117859,6,Rock
+382,125183,2,Folk
+383,130682,6,Rock
+384,137581,7,Metal
+385,139523,2,Folk
+386,140135,1,Electronic
+387,140195,6,Rock
+388,141872,1,Electronic
+389,142966,6,Rock
+390,143146,0,Classical
+391,145563,0,Classical
+392,145564,0,Classical
+393,145565,0,Classical
+394,145607,7,Metal
+395,146961,2,Folk
+396,147403,6,Rock
+397,149209,7,Metal
+398,149213,7,Metal
+399,149214,7,Metal
