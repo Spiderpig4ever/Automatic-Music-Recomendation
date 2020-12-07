@@ -11,13 +11,13 @@
 
 ## Code
 
-The following notebooks, scripts, and modules have been developed for the dataset.
+The following notebooks and scritps were used in our implementation.
 
 1. [Implementation](Implementation.ipynb): Implementation notebook containing all the different approaches.
 2. [classes.py](classes.py): Python class designed to read in songs and store the relative featrues in a library.
 3. [exampler](exampler.ipynb): Example query and reccomendations.
 4. [run.py](run.py): Calls functions from `classes.py` to create feature library.
-5. [utils.py]:(utils.py) helper functions and classes.
+5. [utility.py]:(utility.py) helper functions and classes.
 
 
 ## Usage
