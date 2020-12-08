@@ -25,3 +25,10 @@ The following notebooks and scritps were used in our implementation.
 > Make sure to update all file paths to suit your local machine.
 
 
+## Reports
+
+Along with the code is the corresponding research write up, poster and presentation]
+
+1. [Write Up](Reports/SACAIR_Paper.pdf): Research write up, including results and potential expansions for future work.
+2. [Poster](Reports/1628649_Graphical_Poster.pdf): Implementation notebook containing all the different approaches.
+3. [Poster](Reports/1628649_Presentation.mp4): Implementation notebook containing all the different approaches.
